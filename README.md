@@ -26,6 +26,16 @@ The dataset used for training and evaluation can be downloaded from Kaggle:
 3. Click on the **Download** button to get the dataset.
 4. Extract the downloaded files and place them in the appropriate directory for training and testing.
 
+## Pre-Trained Model Download
+The trained deep learning model (`evgg.h5`) is available as a release on GitHub:
+
+[Download evgg.h5 Model](https://github.com/likithasusi/Eye-Disease-Detection-Using-Deep-Learning/releases/download/v1.0/evgg.h5)
+
+### Steps to Download the Model:
+1. Click on the link above to open the GitHub release page.
+2. Download the `evgg.h5` file by clicking on it.
+3. Save the file in the appropriate model directory for usage in classification.
+
 ## Methodology
 ### Transfer Learning
 Transfer learning has become an essential technique in deep learning, especially for image analysis and classification. For this project, we utilize the following pre-trained models:
@@ -92,3 +102,5 @@ These models have been widely used in medical image classification and have demo
 - Implement additional deep learning models for better accuracy.
 - Develop a mobile application for remote diagnosis.
 
+## Contributors
+- **Project Lead:** Likitha Susi Marneni
